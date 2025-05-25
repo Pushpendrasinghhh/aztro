@@ -8,4 +8,5 @@ beautifulsoup4==4.6.3
 flask_restful==0.3.6
 lxml==4.6.2
 flask_cors
+MarkupSafe==2.0.1
 
